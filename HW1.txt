@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title>THIS IS MY HOMEWORK. LESSON ONE</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="style.css">
+		<script defer src="script.js"></script>
+	</head>
+
+	<body>
+		<header>
+			<h1>
+				щрн гюцнкнбнй <span>1 (рср яоюм)</span> спнбмъ
+			</h1>
+			<nav>
+				<a href="">йнрърю</a>
+				<a href="">нкемърю</a>
+				<a href="">якнмърю</a>
+			</nav>
+		</header>
+		<main>
+			<h2>рецх</h2>
+                                            <div id="string">
+				<a href="vk.com">ЯЯКШЙЮ МЮ бй х бннаые рср ярпнвмше щкелемрш</a>
+				<b>фхп</b>
+				<br>щрн мнбюъ ярпнйю
+				<img src="http://otvet.imgsmail.ru/download/u_3c92ded65da2abdd8fdf600d3b6654e0_800.jpg" alt="РСР ЙНР">
+			 </div>
+			 
+			<div id="block">
+				<p>ЮАГЮЖ1 рср акнйх</p>
+				<hr>
+				<p>нрдекхк кхмхеи щрнр ЮАГЮЖ2</p>
+				<h6>бнр х h6</h6> <br> тнплю
+			</div>
+			
+			<form action="ASD.php" method="post">
+				<input id=>
+				
+			</form>
+		</main>
+		<footer>
+ 			<h3>тсреееееееп</h3>
+		</footer>
+	</body>
+
+</html>
